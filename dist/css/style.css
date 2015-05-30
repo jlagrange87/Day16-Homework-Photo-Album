@@ -67,7 +67,9 @@ header{
   height:100px;
   padding-top: 2%;
   font-size: 50px;
-  width: 100%
+  width: 100%;
+  transition: background-color ease 1s;
+
 }
 img{
   border-radius: 3px;
