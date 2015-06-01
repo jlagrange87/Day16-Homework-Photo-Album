@@ -117,6 +117,6 @@ img{
     transition: background-color ease .5s;
 }
 .btn{
-  float:left;
-  margin-bottom: 2%;
+  margin:0 auto;
+  display:none;
 }
